@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "file": "",
+  "sources": ["main.sass","_layout.sass"],
+  "names": [],
+  "mappings": "ACGA;EACE,QAAQ;EACR,SAAS;;AAEX;EACE,UAAU;EACV,QAAQ;EACR,OAAO;EACP,OAAO;EACP,QAAQ;EACR,gBAAgB;;AAElB;EAAA;IAEI,YAjBO;;AAmBX;EAAA;IAEI,YApBQ"
+}
