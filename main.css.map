@@ -1,7 +1,7 @@
 {
   "version": 3,
   "file": "",
-  "sources": ["main.sass","_layout.sass"],
+  "sources": ["main.sass","_layout.sass","_game.sass"],
   "names": [],
   "mappings": "ACGA;EACE,QAAQ;EACR,SAAS;;AAEX;EACE,UAAU;EACV,QAAQ;EACR,OAAO;;AAET;EAAA;IAEI,YAdO;IAeP,OAAO;IACP,QAAQ;;AAEZ;EAAA;IAEI,YAnBQ;IAoBR,OAAO;IACP,QAAQ"
 }
